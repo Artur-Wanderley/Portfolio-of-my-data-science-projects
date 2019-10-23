@@ -5,10 +5,10 @@ The goal of this academic research is to understand the extent to which plant sp
 
 In this project, we will perform some data manipulation to convert the raw data we have into a dataset appropriate to build a predictive model. 
 
-Specifically we will:.
+Specifically we will:
 
-- Write the to_bin function to create 50 km2 bins (the grid cells)
-- Use map(to_bin) on the geographic coordinates to create the 50 km2 grid cells
+- Write the to_bin() function to create 50 km2 bins (the grid cells of map)
+- Use map(to_bin) on geographic coordinates to create the 50 km2 grid cells
 - Calculate the geographic coordinates of the center of each grid cell (centroids)
 - Use pandas.DataFrame.groupby to group the species occurrences into the grid cells
 - Use pandas.DataFrame.pivot to convert our dataset into a species abundance matrix in which each column is a plant species and each row is a grid cell.
@@ -16,7 +16,6 @@ Specifically we will:.
 - Do some data cleaning through string manipulation: string format() and regex
 - Use for loop and zip() function to rename hundreds of column labels at once
 - Use the Matplotlib Basemap Toolkit to plot our data into a geographic map
-
 
 ## Note:
 
