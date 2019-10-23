@@ -9,6 +9,6 @@ Along the way of cleaning and visualizing data, we will:
 - Use several functions of the pandas and NumPy libraries to clean and manipulate data
 - Create a function to nicely visualize missing data using a heatmap
 - Web scraping
-- Use applymap and lambda to transform data
+- Use applymap and `lambda` function to transform data
 - Join datasets with pandas.DataFrame.merge()
 - Use for loops to plot greenhouse emissions of multiple countries
