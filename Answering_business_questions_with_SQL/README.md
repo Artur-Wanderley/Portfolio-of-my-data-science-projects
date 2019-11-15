@@ -4,10 +4,10 @@ Specifically, we will use SQLite to explore the Chinook database ([downloaded he
 
 ## The business questions we will answer in this project are the following:
 
-### - What are the most popular music genres sold in the USA?
-### - Who's the guy? Looking at sales agents performances
-### - How good are sales by country?
-### - What do customers prefer to buy, full albums or individuals tracks?
+- What are the most popular music genres sold in the USA?
+- Who's the guy? Looking at sales agents performances
+- How good are sales by country?
+- What do customers prefer to buy, full albums or individuals tracks?
 
 ## Note
 
