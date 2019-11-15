@@ -1,6 +1,6 @@
 ## In this project, we practice SQL skills by using a database of the Chinook record store.
 
-Specifically, we will use SQLite to explore the Chinook database (downloaded here) and help managers make business decisions.
+Specifically, we will use SQLite to explore the Chinook database ([downloaded here](https://www.sqlitetutorial.net/sqlite-sample-database/)) and help managers make business decisions.
 
 ## The business questions we will answer in this project are the following:
 
@@ -11,4 +11,4 @@ Specifically, we will use SQLite to explore the Chinook database (downloaded her
 
 ## Note
 
-I developed this project as part of the "SQL intermediate: table relations and joins" course of Dataquest.
+I developed this project as part of the "SQL intermediate: table relations and joins" course of [Dataquest](https://app.dataquest.io/course/sql-joins-relations).
