@@ -1,7 +1,6 @@
 
 # Accenture's AI Challenge¶
 ## Implement a module for Accenture logo recognition in an image
-##Introduction
 The code below implements an object detector for the Accenture logo.
 The object detector was built using the yolov3 model;
 Yolo stdands for "you look only once". The yolov3 is a state-of-the-art deep learning model for object detection;
